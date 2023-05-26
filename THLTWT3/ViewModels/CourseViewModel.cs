@@ -7,6 +7,7 @@ using THLTWT3.Models;
 
 namespace THLTWT3.ViewModels
 {
+    // hai ngu bo
     public class CourseViewModel
     {
         [Required]
